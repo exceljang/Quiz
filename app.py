@@ -4,7 +4,7 @@ from PIL import Image
 import random
 import json
 import os
-# Test_right
+
 # 페이지 설정
 st.set_page_config(
     page_title="한국 야생화 퀴즈",
@@ -138,12 +138,10 @@ def main():
             
             if selected is not None:
                 if selected == current_q["correct_answer"]:
-                    st.success("정답입니다! 🎉")
-                    st.write(f"설명: {current_q['description']}")
+                    st.success(f"정답입니다! 🎉 - {current_q['description']}")
                     st.session_state.score += 1
                 else:
-                    st.error(f"틀렸습니다. 정답은 {current_q['correct_answer']}입니다.")
-                    st.write(f"설명: {current_q['description']}")
+                    st.error(f"틀렸습니다. 정답은 {current_q['correct_answer']}입니다. - {current_q['description']}")
                 
                 if st.button("다음 문제"):
                     st.session_state.current_question += 1
