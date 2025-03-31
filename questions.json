@@ -1,0 +1,132 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "image_url": "images/gaenari.jpg",
+            "correct_answer": "개나리",
+            "options": ["개나리", "진달래", "벚꽃", "장미"],
+            "difficulty": "초급",
+            "description": "봄에 노란 꽃을 피우는 관목"
+        },
+        {
+            "id": 2,
+            "image_url": "images/jindallae.jpg",
+            "correct_answer": "진달래",
+            "options": ["개나리", "진달래", "벚꽃", "장미"],
+            "difficulty": "초급",
+            "description": "봄에 분홍색 꽃을 피우는 관목"
+        },
+        {
+            "id": 3,
+            "image_url": "images/beotkkot.jpg",
+            "correct_answer": "벚꽃",
+            "options": ["개나리", "진달래", "벚꽃", "장미"],
+            "difficulty": "초급",
+            "description": "봄에 흰색과 분홍색 꽃을 피우는 나무"
+        },
+        {
+            "id": 4,
+            "image_url": "images/mugunghwa.jpg",
+            "correct_answer": "무궁화",
+            "options": ["무궁화", "장미", "진달래", "개나리"],
+            "difficulty": "초급",
+            "description": "한국의 국화로, 여름에 피는 꽃"
+        },
+        {
+            "id": 5,
+            "image_url": "images/cosmos.jpg",
+            "correct_answer": "코스모스",
+            "options": ["코스모스", "국화", "장미", "개나리"],
+            "difficulty": "초급",
+            "description": "가을에 피는 연한 분홍색 꽃"
+        },
+        {
+            "id": 6,
+            "image_url": "images/chrysanthemum.jpg",
+            "correct_answer": "국화",
+            "options": ["국화", "코스모스", "장미", "개나리"],
+            "difficulty": "초급",
+            "description": "가을에 피는 노란색 꽃"
+        },
+        {
+            "id": 7,
+            "image_url": "images/jaebi.jpg",
+            "correct_answer": "제비꽃",
+            "options": ["국화", "코스모스", "제비꽃", "개나리"],
+            "difficulty": "중급",
+            "description": "봄에 들에 피는 보라색 꽃"
+        },
+        {
+            "id": 8,
+            "image_url": "images/chuljuk.jpg",
+            "correct_answer": "철쭉",
+            "options": ["무궁화", "장미", "진달래", "철쭉"],
+            "difficulty": "중급",
+            "description": "봄에 피는 분홍색 꽃"
+        },
+        {
+            "id": 9,
+            "image_url": "images/halmi.jpg",
+            "correct_answer": "할미꽃",
+            "options": ["할미꽃", "국화", "장미", "개나리"],
+            "difficulty": "중급",
+            "description": "봄에 피는 보라색 들꽃"
+        },
+        {
+            "id": 10,
+            "image_url": "images/mindulle.jpg",
+            "correct_answer": "민들레",
+            "options": ["민들레", "국화", "장미", "개나리"],
+            "difficulty": "중급",
+            "description": "봄에 피는 노란색 꽃"
+        },
+        {
+            "id": 11,
+            "image_url": "images/자운영.jpg",
+            "correct_answer": "자운영",
+            "options": ["사강", "국화", "자운영", "개나리"],
+            "difficulty": "중급",
+            "description": "봄에 들에 피는 보라색 꽃"
+        },
+        {
+            "id": 12,
+            "image_url": "images/깽깽이풀.jpg",
+            "correct_answer": "깽깽이풀",
+            "options": ["깽깽이풀", "국화", "제비꽃", "개나리"],
+            "difficulty": "고급",
+            "description": "봄에 들에 피는 연한 분홍색 꽃"
+        },
+        {
+            "id": 13,
+            "image_url": "images/너도바람꽃.jpg",
+            "correct_answer": "너도바람꽃",
+            "options": ["너도바람꽃", "장미", "진달래", "철쭉"],
+            "difficulty": "고급",
+            "description": "겨울에 피는 하얀색 꽃"
+        },
+        {
+            "id": 14,
+            "image_url": "images/대청부채.jpg",
+            "correct_answer": "대청부채",
+            "options": ["대청부채", "국화", "장미", "개나리"],
+            "difficulty": "고급",
+            "description": "봄에 피는 연한 보라색 들꽃"
+        },
+        {
+            "id": 15,
+            "image_url": "images/별개미취.jpg",
+            "correct_answer": "별개미취",
+            "options": ["별개미취", "국화", "장미", "개나리"],
+            "difficulty": "고급",
+            "description": "봄에 피는 연한 분홍색 꽃"
+        },
+        {
+            "id": 16,
+            "image_url": "images/하늘말나리.jpg",
+            "correct_answer": "하늘말나리",
+            "options": ["하늘말나리", "국화", "장미", "개나리"],
+            "difficulty": "고급",
+            "description": "봄에 들에 피는 연한 주황색 꽃"
+        }
+    ]
+} 
