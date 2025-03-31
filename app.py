@@ -4,7 +4,7 @@ from PIL import Image
 import random
 import json
 import os
-
+# Test_right
 # 페이지 설정
 st.set_page_config(
     page_title="한국 야생화 퀴즈",
