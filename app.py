@@ -16,7 +16,7 @@ st.set_page_config(
 st.markdown("""
     <style>
     .stTitle {
-        font-size: 24px !important;
+        font-size: 20px !important;
     }
     .stMarkdown {
         font-size: 14px !important;
