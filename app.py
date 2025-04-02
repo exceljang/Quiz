@@ -15,7 +15,10 @@ st.set_page_config(
 # CSS 스타일 추가
 st.markdown("""
     <style>
-    .stTitle {
+    h1 {
+        font-size: 20px !important;
+    }
+    .stTitle h1 {
         font-size: 20px !important;
     }
     .stMarkdown {
