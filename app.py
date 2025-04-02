@@ -9,9 +9,26 @@ import os
 st.set_page_config(
     page_title="한국 야생화 퀴즈",
     page_icon="🌸",
-    layout="wide",
-    initial_sidebar_state="collapsed"
+    layout="centered"
 )
+
+# CSS 스타일 추가
+st.markdown("""
+    <style>
+    .stTitle {
+        font-size: 24px !important;
+    }
+    .stMarkdown {
+        font-size: 14px !important;
+    }
+    .stRadio > div {
+        font-size: 14px !important;
+    }
+    .stButton > button {
+        font-size: 14px !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
 
 # 세션 상태 초기화
 def init_session_state():
